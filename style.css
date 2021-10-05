@@ -6,3 +6,9 @@ body,
   box-sizing: border-box;
   font-size: 62.5%;
 }
+.Outer {
+}
+.title {
+  margin: 0px auto;
+  text-align: center;
+}
