@@ -7,8 +7,22 @@ body,
   font-size: 62.5%;
 }
 .Outer {
+  display: flex;
+  font-size: 6rem;
+  margin: 0px auto;
+  justify-content: space-between;
+  flex-direction: column;
 }
 .title {
+  background-image: url();
+  font-size: 6rem;
   margin: 0px auto;
   text-align: center;
+  background-color: red;
+  padding: 20vh 0vw 10vh 0vw;
+}
+.row {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
 }
