@@ -17,12 +17,12 @@ body {
   margin: 0px auto;
 }
 .title {
-  background-image: url();
+  background-image: url(IMG_2506.jpg);
   font-size: 6rem;
   margin: 0px auto;
   text-align: center;
   background-color: red;
-  padding: 20vh 0vw 10vh 0vw;
+  padding: 20vh 0vw 20vh 0vw;
 }
 .row {
   display: flex;
