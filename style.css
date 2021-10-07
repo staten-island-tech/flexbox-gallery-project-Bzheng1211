@@ -6,12 +6,15 @@ body,
   box-sizing: border-box;
   font-size: 62.5%;
 }
+body {
+  background-image: url();
+}
 .Outer {
   display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
   font-size: 6rem;
   margin: 0px auto;
-  justify-content: space-between;
-  flex-direction: column;
 }
 .title {
   background-image: url();
@@ -23,6 +26,6 @@ body,
 }
 .row {
   display: flex;
-  justify-content: space-between;
   flex-direction: row;
+  padding: 5% 5vw 20vh 5vw;
 }
