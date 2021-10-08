@@ -12,9 +12,9 @@ body {
 .Outer {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: space-evenly;
   font-size: 6rem;
-  margin: 0px auto;
+  margin: 1rem auto;
 }
 .title {
   background-image: url(IMG_2506.jpg);
@@ -24,8 +24,8 @@ body {
   background-color: red;
   padding: 20vh 0vw 20vh 0vw;
 }
-.row {
-  display: flex;
-  flex-direction: row;
-  padding: 5% 5vw 20vh 5vw;
+.ingredients {
+  height: 30rem;
+  width: 22%;
+  background-color: red;
 }
