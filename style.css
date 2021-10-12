@@ -27,12 +27,9 @@ body {
   text-align: center;
   padding: 40vh 0vw 45vh 0vw;
 }
-.img {
-  box-sizing: border-box;
-  width: 80%;
-}
 .ingredients {
-  height: 40rem;
+  border-radius: 20px;
+  height: 45rem;
   width: 22%;
   background-color: red;
   margin: 2rem auto;
@@ -48,5 +45,12 @@ body {
   }
 }
 h2 {
+  margin-top: 5%;
   text-align: center;
+}
+img {
+  width: 80%;
+  height: auto;
+  border-spacing: ;
+  margin: 5% 10% 10% 10%;
 }
