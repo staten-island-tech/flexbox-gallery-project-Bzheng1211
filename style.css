@@ -7,6 +7,7 @@ body,
   font-size: 62.5%;
 }
 body {
+  font-family: "Noto Sans", sans-serif;
   color: white;
   background-image: url(darkwood.jfif);
   background-size: cover;
@@ -28,7 +29,7 @@ body {
   padding: 40vh 0vw 45vh 0vw;
 }
 .ingredients {
-  border-radius: 20px;
+  border-radius: 2rem;
   height: 45rem;
   width: 22%;
   background-color: red;
@@ -51,6 +52,5 @@ h2 {
 img {
   width: 80%;
   height: 50%;
-  border-spacing: ;
   margin: 5% 10% 10% 10%;
 }
