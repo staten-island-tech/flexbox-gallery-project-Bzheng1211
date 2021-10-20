@@ -14,7 +14,6 @@ body {
   animation: test 1s;
 }
 .Outer {
-  position: relative;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
