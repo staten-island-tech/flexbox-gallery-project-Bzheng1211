@@ -94,3 +94,14 @@ img:hover {
     opacity: 1;
   }
 }
+.b:hover {
+  transform: translateY(2rem);
+  transition-duration: 2s;
+}
+.c:hover {
+  transform: translateX(2rem);
+  transition-duration: 2s;
+}
+.sub:hover {
+  color: rgb(87, 87, 87);
+}
