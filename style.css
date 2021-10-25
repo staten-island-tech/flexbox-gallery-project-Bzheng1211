@@ -27,7 +27,7 @@ body {
   font-size: 10rem;
   margin: 0px;
   text-align: center;
-  padding: 40% 0% 45% 0%;
+  padding: 10% 0% 15% 0%;
 }
 .ingredients {
   border-radius: 2rem;
@@ -59,10 +59,11 @@ img {
 }
 img:hover {
   transform: scale(1.1);
-  transition-duration: 0.4s;
+  transition-duration: 0.5s;
 }
 .a:hover {
   transform: translate(1rem, 1rem);
+  transition-duration: 0.5s;
 }
 @keyframes test {
   0% {
